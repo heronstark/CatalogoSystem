@@ -3,6 +3,9 @@ body{
     color: lime;
 }
 
+header{
+    font-family: "Chkra Petch",sans-serif;
+}
 section{
     background-color: rgb(171, 11, 240);
     padding-bottom: 5%;
