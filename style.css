@@ -21,6 +21,10 @@ section{
     height: 200px;
     opacity: 0.5;
 }
+
+.categoria-videos img:hover{
+    opacity: 1.0;
+}
 .categoria-videos{
     display: flex;
     overflow: auto;
