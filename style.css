@@ -24,7 +24,7 @@ section{
 
 .categoria-videos img:hover{
     opacity: 1.0;
-    border: 30px solid purple;
+    border: 30px solid yellowgreen;
 }
 .categoria-videos{
     display: flex;
