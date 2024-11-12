@@ -6,6 +6,7 @@ body{
 
 header{
     font-family: "Eater", sans-serif;
+    border-bottom: 20px;
     padding: 20px;
     font-size: 40px;
     color: aqua;
