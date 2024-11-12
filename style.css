@@ -25,3 +25,6 @@ img{
     overflow: auto;
     gap: 10x;
 }
+.lista{
+    background-color: lawngreen;
+}
