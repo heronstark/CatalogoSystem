@@ -6,7 +6,9 @@ body{
 
 header{
     font-family: "Eater", sans-serif;
+    padding: 20px;
     font-size: 40px;
+    color: aqua;
 }
 section{
     background-color: rgb(74, 10, 142);
